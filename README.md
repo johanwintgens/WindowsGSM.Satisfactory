@@ -22,7 +22,7 @@ After starting the server, the first client to connect to the server will be abl
 FactoryServer.exe launches a new window by itself. This means that FactoryServer's window can be hidden, but the window it spawns cannot. Seeing as the dedicated server was released only 24 hours ago at this time, I am confident that this will be fixed internally.
 
 # License
-This project is licensed under the MIT License - see the <a href="https://github.com/johanwintgens/WindowsGSM.Satisfactory/blob/main/LICENSE">LICENSE.md</a> file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/johanwintgens/WindowsGSM.Satisfactory/blob/master/LICENSE">LICENSE.md</a> file for details
 
 # Credits
-This repository and project is essentially a copy of <a href="dkdue">https://github.com/dkdue</a>'s <a href="https://github.com/dkdue/WindowsGSM.Valheim">WindowsGSM.Valheim</a> project, tailored to Satisfactory's requirements.
+This repository and project is essentially a copy of <a href="https://github.com/dkdue">dkdue</a>'s <a href="https://github.com/dkdue/WindowsGSM.Valheim">WindowsGSM.Valheim</a> project, tailored to Satisfactory's requirements.
